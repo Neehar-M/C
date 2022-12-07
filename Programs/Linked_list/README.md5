@@ -1,0 +1,13 @@
+
+
+Next Steps :
+
+1) Reverse a Linked List
+2) Insert a new node from Nth Offset from end 
+3) Sort nodes in ascending order in a Linked list
+4) Merge 2 Linked list into one linked list
+5) Merge & Sort(in ascending order) 2 linkedlist into One linked list
+
+6) Wall time & CPU time of Linked list Program exection 
+	Reference : https://levelup.gitconnected.com/8-ways-to-measure-execution-time-in-c-c-48634458d0f9
+7) Optimize the Wall & CPU time for the above logic
